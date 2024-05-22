@@ -5,3 +5,7 @@ VinTimes is a watches shopping cart project that allows users to browse and purc
 This project incluedes two parts:- 
 1. Backend : Sql Server, Entity Framework, Web API using C#.
 2. Frontend : ReactJs and Bootstrap 
+
+
+https://github.com/thevinaypratap/WatchShoppingCart/assets/89694344/ecb36683-a4ef-4843-8d15-68b4074e7e0e
+
