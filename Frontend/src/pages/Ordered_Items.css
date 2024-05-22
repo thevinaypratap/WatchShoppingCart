@@ -1,0 +1,40 @@
+.ordered-items-container {
+    margin: 0 auto;
+    width: 80%;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ordered-items-title {
+    margin-top: 0;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .ordered-items-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .ordered-items-table th,
+  .ordered-items-table td {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+  }
+  
+  .ordered-items-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .ordered-items-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .ordered-items-table td:last-child {
+    text-align: right;
+  }

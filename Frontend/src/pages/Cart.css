@@ -1,0 +1,19 @@
+.cart-item {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+  }
+  
+  .quantity-buttons {
+    gap: 1rem;
+  }
+  
+  .quantBtn {
+    background-color: #ddd;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .quantBtn:hover {
+    background-color: #ccc;
+  }

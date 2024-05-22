@@ -1,0 +1,24 @@
+.user-logo {
+  width: 40px;
+  height: 40px;
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+  border-radius: 50%;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.user-info .user-name {
+  color: #fff;
+  margin-left: 0.5rem;
+}

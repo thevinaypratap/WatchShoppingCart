@@ -1,0 +1,14 @@
+.modal-dialog {
+    max-width: 83%;
+}
+.products{
+    margin: 10px;
+    width: 350px;
+}
+.prod-img{
+    height: 150px;
+    width: auto;
+}
+.quantBtn{
+    padding: 10px;
+}
